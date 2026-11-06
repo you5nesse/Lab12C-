@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793996934 source:c:\users\pc\documents\sql_lab1\ex12.1\vecteur2d.cpp
+	"Vecteur2D.h"
+
+1793997108 c:\users\pc\documents\sql_lab1\ex12.1\vecteur2d.h
+	<iostream>
+

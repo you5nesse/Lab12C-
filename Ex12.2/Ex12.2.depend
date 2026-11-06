@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793997289 source:c:\users\pc\documents\sql_lab1\ex12.2\date.cpp
+	"Date.h"
+
+1793997289 c:\users\pc\documents\sql_lab1\ex12.2\date.h
+	<iostream>
+
